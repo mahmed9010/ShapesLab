@@ -18,5 +18,6 @@ public class RPentagon extends Shape {
     public double getPerimeter()
     {
         return side*5;
+
     }
 }

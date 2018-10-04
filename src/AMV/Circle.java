@@ -5,7 +5,7 @@ public class Circle extends Shape {
 
     public Circle(int radius)
     {
-        super(type: "Circle");
+        super( "Circle");
         this.radius = radius;
     }
     @Override

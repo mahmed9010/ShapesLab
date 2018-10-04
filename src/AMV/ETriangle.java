@@ -13,6 +13,7 @@ public class ETriangle extends Shape {
     public double getArea()
     {
         return .5 * side * side * Math.sqrt(3)/2;
+
     }
 
     @Override
